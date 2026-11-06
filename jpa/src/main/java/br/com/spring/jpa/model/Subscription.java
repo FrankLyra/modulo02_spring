@@ -1,4 +1,4 @@
-package br.com.spring.jpa.event;
+package br.com.spring.jpa.model;
 
 import jakarta.persistence.*;
 

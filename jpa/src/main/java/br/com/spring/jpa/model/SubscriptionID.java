@@ -1,7 +1,5 @@
-package br.com.spring.jpa.event;
+package br.com.spring.jpa.model;
 
-import br.com.spring.jpa.model.Session;
-import br.com.spring.jpa.model.User;
 import jakarta.persistence.Embeddable;
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
